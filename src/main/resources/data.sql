@@ -1,0 +1,11 @@
+INSERT INTO customer (id, name, password, email) VALUES (1, 'Francis Oladosu', 'ileofebfuyeo676', 'frankola@gmail.com');
+INSERT INTO customer (id, name, password, email) VALUES (2, 'John Doe', 'qwer1234', 'johndoe@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (3, 'Jane Smith', 'abcd5678', 'janesmith@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (4, 'Michael Johnson', 'pass1234', 'michaeljohnson@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (5, 'Emily Williams', 'password123', 'emilywilliams@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (6, 'James Bond', 'jamesompass1', 'bonder@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (7, 'Billy Cougar', 'randompass2342', 'billy2@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (8, 'Tope Ademola', 'temitope212', 'randomtope3@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (9, 'Bola Olorunda', 'bolarunda23', 'bolabola4@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (10, 'James Justin', 'football4life', 'jjustin@example.com');
+INSERT INTO customer (id, name, password, email) VALUES (11, 'Romelu Lukaku', 'rLukaku9', 'rlukaku@example.com');
